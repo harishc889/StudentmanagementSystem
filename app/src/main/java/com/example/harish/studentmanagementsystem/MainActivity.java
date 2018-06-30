@@ -1,6 +1,6 @@
 package com.example.harish.studentmanagementsystem;
 
-
+import android.text.method.ScrollingMovementMethod;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
