@@ -57,5 +57,6 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+        displayText.setMovementMethod(new ScrollingMovementMethod());
     }
 }
